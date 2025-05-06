@@ -1,0 +1,142 @@
+[
+  {
+    "id": "r001",
+    "name": "Bella Italia",
+    "tags": ["italian", "pasta", "romantic", "wine"],
+    "capacity": 40,
+    "location": "downtown"
+  },
+  {
+    "id": "r002",
+    "name": "Sushi Delight",
+    "tags": ["japanese", "sushi", "seafood", "quiet"],
+    "capacity": 30,
+    "location": "uptown"
+  },
+  {
+    "id": "r003",
+    "name": "Burger Palace",
+    "tags": ["american", "burgers", "family-friendly", "casual"],
+    "capacity": 60,
+    "location": "midtown"
+  },
+  {
+    "id": "r004",
+    "name": "Spice Garden",
+    "tags": ["indian", "spicy", "vegetarian", "lunch-special"],
+    "capacity": 35,
+    "location": "downtown"
+  },
+  {
+    "id": "r005",
+    "name": "Golden Dragon",
+    "tags": ["chinese", "dim-sum", "group-friendly", "takeout"],
+    "capacity": 50,
+    "location": "chinatown"
+  },
+  {
+    "id": "r006",
+    "name": "Le Petite Cafe",
+    "tags": ["french", "breakfast", "coffee", "bakery"],
+    "capacity": 25,
+    "location": "downtown"
+  },
+  {
+    "id": "r007",
+    "name": "Taco Fiesta",
+    "tags": ["mexican", "tacos", "margaritas", "loud"],
+    "capacity": 45,
+    "location": "uptown"
+  },
+  {
+    "id": "r008",
+    "name": "Mediterranean Oasis",
+    "tags": ["mediterranean", "healthy", "outdoor-seating", "vegetarian"],
+    "capacity": 38,
+    "location": "harbor"
+  },
+  {
+    "id": "r009",
+    "name": "Steakhouse 99",
+    "tags": ["steakhouse", "fine-dining", "wine", "business"],
+    "capacity": 55,
+    "location": "financial district"
+  },
+  {
+    "id": "r010",
+    "name": "Noodle House",
+    "tags": ["asian", "noodles", "quick-service", "inexpensive"],
+    "capacity": 28,
+    "location": "chinatown"
+  },
+  {
+    "id": "r011",
+    "name": "The Brew Pub",
+    "tags": ["pub", "beer", "sports", "bar-food"],
+    "capacity": 70,
+    "location": "midtown"
+  },
+  {
+    "id": "r012",
+    "name": "Pizza Express",
+    "tags": ["pizza", "italian", "family-friendly", "delivery"],
+    "capacity": 42,
+    "location": "uptown"
+  },
+  {
+    "id": "r013",
+    "name": "Seafood Harbor",
+    "tags": ["seafood", "fine-dining", "waterfront", "romantic"],
+    "capacity": 48,
+    "location": "harbor"
+  },
+  {
+    "id": "r014",
+    "name": "Green Garden",
+    "tags": ["vegan", "organic", "healthy", "gluten-free"],
+    "capacity": 32,
+    "location": "downtown"
+  },
+  {
+    "id": "r015",
+    "name": "BBQ Joint",
+    "tags": ["bbq", "american", "casual", "meat-lovers"],
+    "capacity": 65,
+    "location": "midtown"
+  },
+  {
+    "id": "r016",
+    "name": "Downtown Diner",
+    "tags": ["american", "breakfast", "all-day", "retro"],
+    "capacity": 40,
+    "location": "downtown"
+  },
+  {
+    "id": "r017",
+    "name": "Thai Orchid",
+    "tags": ["thai", "spicy", "noodles", "lunch-special"],
+    "capacity": 36,
+    "location": "uptown"
+  },
+  {
+    "id": "r018",
+    "name": "Rooftop Lounge",
+    "tags": ["cocktails", "tapas", "view", "upscale"],
+    "capacity": 75,
+    "location": "financial district"
+  },
+  {
+    "id": "r019",
+    "name": "Falafel King",
+    "tags": ["middle-eastern", "vegetarian", "quick-service", "inexpensive"],
+    "capacity": 30,
+    "location": "midtown"
+  },
+  {
+    "id": "r020",
+    "name": "Wine & Dine",
+    "tags": ["wine-bar", "charcuterie", "date-night", "quiet"],
+    "capacity": 45,
+    "location": "downtown"
+  }
+]
